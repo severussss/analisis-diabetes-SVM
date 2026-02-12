@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "numpy": "^0.0.1",
+    "streamlit": "^2.51.2"
+  }
+}
