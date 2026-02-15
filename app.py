@@ -18,7 +18,7 @@ def risk_level(p: float) -> str:
         return "Sedang"
     return "Tinggi"
 
-st.title("Diabetes Risk Screening (Riset/Skrining — Bukan Diagnosis)")
+st.title("Diabetes Risk Screening (Skrining — Bukan Diagnosis)")
 
 st.info(
     "Aplikasi ini memberikan *risk score* (probabilitas) berdasarkan model data. "
